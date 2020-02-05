@@ -11,4 +11,4 @@ To make this script more accessible, you can run this code as a docker container
 
 You will find Neo4J running on localhost:7474. 
 
-The default username/password is neo4j/neo4j, and when running for the first time it will ask you to change your password.
+The default username/password is neo4j/neo4j, and when running for the first time it will ask you to change your password
