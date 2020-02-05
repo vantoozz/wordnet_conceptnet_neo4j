@@ -1,5 +1,5 @@
 # Python Build
-FROM python:3.7.3-alpine as dataset_build
+FROM python:3.7.6-alpine as dataset_build
 
 WORKDIR /build/
 
